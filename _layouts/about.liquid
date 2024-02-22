@@ -65,7 +65,7 @@ layout: default
     {% endif %}
 
     <!-- Social -->
-    {% if page.social %}
+    {% if page.social and !site.enable_navbar_social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
