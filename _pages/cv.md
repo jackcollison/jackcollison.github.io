@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Curriculum Vita
 nav: true
 nav_order: 5
 cv_pdf: collison_cv.pdf
