@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: https://jackcollison.github.io/assets/pdf/collison_cv.pdf
+permalink: assets/pdf/collison_cv.pdf
 title: CV
 nav: true
 nav_order: 5
