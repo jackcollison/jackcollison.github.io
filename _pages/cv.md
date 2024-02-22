@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: Curriculum Vita
+permalink: https://jackcollison.github.io/assets/pdf/collison_cv.pdf
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: collison_cv.pdf
