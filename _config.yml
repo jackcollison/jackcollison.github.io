@@ -202,7 +202,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages/404.md", "_pages/about.md", "_pages/cv.md"]
+include: ["_pages/404.md", "_pages/about.md",, "_pages/publications.cv" "_pages/cv.md"]
 exclude:
   - bin
   - CONTRIBUTING.md
