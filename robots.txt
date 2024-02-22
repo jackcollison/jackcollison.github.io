@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jackcollison.github.io/al-folio/sitemap.xml
+Sitemap: https://jackcollison.github.io/sitemap.xml
