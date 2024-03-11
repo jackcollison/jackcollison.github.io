@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/collison_cv.pdf
+permalink: assets/pdf/collison_cv.pdf # /cv/
 title: CV
 nav: true
 nav_order: 5
