@@ -14,8 +14,8 @@ nav_order: 2
 
 </div>
 
-<!-- <div class="working">
+<div class="working">
 
-{% bibliography %}
+{% working %}
 
-</div> -->
+</div>
