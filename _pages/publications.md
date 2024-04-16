@@ -10,12 +10,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
-
-</div>
-
-<div class="working">
-
-{% working %}
+{% bibliography --template bib --group_by type,year --group_order ascending,descending %}
 
 </div>
