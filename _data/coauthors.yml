@@ -1,3 +1,27 @@
 "barwick":
   - firstname: ["Panle", "P.", "P. B.", "Panle Barwick"]
     url: https://www.pbarwick.org/main
+
+"magnolfi":
+  - firstname: ["Lorenzo", "L.", "L. M.", "Lorenzo Magnolfi"]
+    url: https://lorenzomagnolfi.com/
+
+"sullivan":
+  - firstname: ["Chris", "C.", "C. S.", "Chris Sullivan"]
+    url: https://sites.google.com/view/christopher-sullivan
+
+"chiang":
+  - firstname: ["Harold", "H.", "H. C.", "Harold Chiang"]
+    url: https://sites.google.com/view/haroldchiang/home
+
+"li":
+  - firstname: ["Shanjun", "S.", "S. L.", "Shanjun Li"]
+    url: http://li.dyson.cornell.edu/
+
+"lin":
+  - firstname: ["Yatang", "Y.", "Y. L.", "Yatang Lin"]
+    url: https://econ.hkust.edu.hk/faculty-and-staff/directory/linyt
+
+"eggleston":
+  - firstname: ["Karen", "K.", "K. E.", "Karen Eggleston"]
+    url: https://aparc.fsi.stanford.edu/people/karen_eggleston
