@@ -11,9 +11,9 @@ $(document).ready(function () {
     $(this).parent().parent().find(".showconferences.hidden.open").toggleClass("open");
   });
   $("a.showconferences").click(function () {
-    $(this).parent().parent().find(".showconferences.open").toggleClass("open");
-    $(this).parent().parent().find(".abstract.hidden.hidden").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.hidden").toggleClass("open");
+    $(this).parent().parent().find(".showconferences").toggleClass("open");
+    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
   });
   $("a").removeClass("waves-effect waves-light");
 
