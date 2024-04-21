@@ -127,6 +127,11 @@
       {% endif %}
     </div>
 
+    <!-- Awards -->
+    <div class="award">
+      <i>{{ entry.award_name }}</i>
+    </div>
+
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
@@ -152,11 +157,6 @@
     </div>
     <div class="periodical">
       {{ entry.note | strip }}
-    </div>
-
-    <!-- Awards -->
-    <div class="award">
-      <em>{{ entry.award_name }}</em>
     </div>
 
     <!-- Links/Buttons -->
