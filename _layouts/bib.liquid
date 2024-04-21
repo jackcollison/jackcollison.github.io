@@ -42,6 +42,10 @@
   <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
+    <!-- Awards -->
+    <div class="awards">
+      <i>{{ entry.award_name }}</i>
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -125,11 +129,6 @@
           {{- more_authors_hide -}}
         </span>
       {% endif %}
-    </div>
-
-    <!-- Awards -->
-    <div class="award">
-      <i>{{ entry.award_name }}</i>
     </div>
 
     <!-- Journal/Book title and date -->
