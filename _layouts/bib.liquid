@@ -156,7 +156,7 @@
 
     <!-- Awards -->
     <div class="award">
-      {{ entry.award_name }}
+      <em>{{ entry.award_name }}</em>
     </div>
 
     <!-- Links/Buttons -->
@@ -186,6 +186,9 @@
         {% else %}
           <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
         {% endif %}
+      {% endif %}
+      {% if entry.show_conferences %}
+        <a class="bibtex btn btn-sm z-depth-0" role="button">Conferences</a>
       {% endif %}
       {% if entry.video %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
@@ -285,6 +288,13 @@
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
         {% endhighlight %}
+      </div>
+    {% endif %}
+
+    {% if entry.show_conferences %}
+      <!-- Hidden conferences block -->
+      <div class="showconferences hidden">
+        <p>{{ entry.show_conferences }}</p>
       </div>
     {% endif %}
 
