@@ -42,10 +42,7 @@
   <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
-    <!-- Awards -->
-    <div class="awards">
-      <i>{{ entry.award_name }}</i>
-    </div>
+   
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -189,6 +186,9 @@
       {% if entry.show_conferences %}
         <a class="showconferences btn btn-sm z-depth-0" role="button">Conferences</a>
       {% endif %}
+      {% if entry.award_name %}
+        <a class="showawards btn btn-sm z-depth-0" role="button">Awards</a>
+      {% endif %}
       {% if entry.video %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
       {% endif %}
@@ -294,6 +294,13 @@
       <!-- Hidden conferences block -->
       <div class="showconferences hidden">
         <p>{{ entry.show_conferences }}</p>
+      </div>
+    {% endif %}
+
+    {% if entry.award_name %}
+      <!-- Hidden awards block -->
+      <div class="showawards hidden">
+        <p>{{ entry.award_name }}</p>
       </div>
     {% endif %}
 

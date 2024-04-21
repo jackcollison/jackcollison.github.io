@@ -857,6 +857,14 @@ footer.sticky-bottom {
       div.showconferences.hidden.open {
         border-color: var(--global-text-color);
       }
+
+      div.showawards.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+
+      div.showawards.hidden.open {
+        border-color: var(--global-text-color);
+      }
     }
   }
 }
