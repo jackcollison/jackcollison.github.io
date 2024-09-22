@@ -1,6 +1,6 @@
 "barwick":
   - firstname: ["Panle", "P.", "P. B.", "Panle Barwick"]
-    url: https://www.pbarwick.org/main
+    url: https://panlebarwick.github.io
 
 "magnolfi":
   - firstname: ["Lorenzo", "L.", "L. M.", "Lorenzo Magnolfi"]
@@ -25,3 +25,7 @@
 "eggleston":
   - firstname: ["Karen", "K.", "K. E.", "Karen Eggleston"]
     url: https://aparc.fsi.stanford.edu/people/karen_eggleston
+
+"higgins":
+  - firstname: ["John", "J.", "J. F.", "John Higgins"]
+    url: https://johnfhiggins.github.io/
