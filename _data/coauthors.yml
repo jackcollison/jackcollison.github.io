@@ -1,5 +1,5 @@
 "barwick":
-  - firstname: ["Panle", "P.", "P. B.", "Panle Barwick"]
+  - firstname: ["Panle", "P.", "P. B.", "Panle Barwick", "Panle Jia", "P. J. B.", "Panle J."]
     url: https://panlebarwick.github.io
 
 "magnolfi":
@@ -20,7 +20,7 @@
 
 "lin":
   - firstname: ["Yatang", "Y.", "Y. L.", "Yatang Lin"]
-    url: https://econ.hkust.edu.hk/faculty-and-staff/directory/linyt
+    url: https://sites.google.com/view/yatanglin/home
 
 "eggleston":
   - firstname: ["Karen", "K.", "K. E.", "Karen Eggleston"]
@@ -33,3 +33,7 @@
 "fronsdal":
   - firstname: ["Toren", "T.", "Toren Fronsdal"]
     url: https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1306936
+
+"wang":
+  - firstname: ["Yucheng", "Y.", "Yucheng Wang"]
+    url: https://yuchengwang.weebly.com/
