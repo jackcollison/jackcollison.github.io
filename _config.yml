@@ -206,7 +206,6 @@ exclude:
   - /_posts/*
   - /_projects/*
   - /_news/*
-  - /assets/img/prof_pic-*
   - bin
   - CONTRIBUTING.md
   - CUSTOMIZE.md
