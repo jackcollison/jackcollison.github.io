@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal webpage!
 
-I am a Ph.D. Candidate in the Department of Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests focuses on energy markets using tool from industrial organization, econometrics, and machine learning. I have worked on applications in petroleum, electric vehicle, and electricity markets.
+I am a Ph.D. Candidate in the Department of Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests focuses on energy markets using tools from industrial organization, econometrics, and machine learning. I have worked on applications in petroleum markets, electric vehicles, and electricity. I also enjoy adapting and developing ML/AI methods to estimate structural models.
 
 I graduated with an M.S. in Statistics and a B.A. in Economics with [honors](https://economics.stanford.edu/impact-online-food-delivery-services-restaurant-sales) from [Stanford University](https://stanford.edu). I also received an M.S. in Economics from the [University of Wisconsin-Madison](https://econ.wisc.edu/).
 
