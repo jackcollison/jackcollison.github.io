@@ -25,4 +25,6 @@ I am a Ph.D. Candidate in the Department of Economics at the [University of Wisc
 
 I graduated with an M.S. in Statistics and a B.A. in Economics with [honors](https://economics.stanford.edu/impact-online-food-delivery-services-restaurant-sales) from [Stanford University](https://stanford.edu). I also received an M.S. in Economics from the [University of Wisconsin-Madison](https://econ.wisc.edu/).
 
+I will join Stanford University as a [Postdoctoral Fellow](https://energypostdoc.stanford.edu/), affiliated with the Doerr School of Sustainability and the Department of Economics, in September, 2026.
+
 If you have any questions or want to connect, feel free to [reach out](mailto:jcollison@wisc.edu) to me.
