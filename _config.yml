@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: Jack, Collison, economics, digital, platforms, econometrics, PhD, Wisconsin, Stanford # add your own keywords or leave empty
+keywords: Jack, Collison, economics, energy, environmental, econometrics, PhD, Wisconsin, Stanford, postdoc, fellow, machine learning, deep learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: window.png # 📚 the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
