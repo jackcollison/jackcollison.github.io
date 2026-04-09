@@ -41,3 +41,7 @@
 "donaldson":
   - firstname: ["Dave", "D.", "Dave Donaldson"]
     url: https://economics.mit.edu/people/faculty/dave-donaldson
+
+"goldberg":
+  - firstname: ["Penny", "P.", "Penny Goldberg"]
+    url: https://campuspress.yale.edu/pennygoldberg/
