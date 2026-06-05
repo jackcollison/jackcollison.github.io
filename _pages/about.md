@@ -21,10 +21,10 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal webpage!
 
-I am a Ph.D. Candidate in the Department of Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests focuses on energy markets using tools from industrial organization, econometrics, and machine learning. I have worked on applications in petroleum markets, electric vehicles, and electricity. I also enjoy adapting and developing ML/AI methods to estimate structural models.
+I will join Stanford University as a [Postdoctoral Fellow](https://energypostdoc.stanford.edu/) in September, 2026. 
+
+I received my Ph.D. from the Department of Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests focuses on energy markets using tools from industrial organization, econometrics, and machine learning. I have worked on applications in petroleum markets, electric vehicles, and electricity. I also enjoy adapting and developing ML/AI methods to estimate structural models.
 
 I graduated with an M.S. in Statistics and a B.A. in Economics with [honors](https://economics.stanford.edu/impact-online-food-delivery-services-restaurant-sales) from [Stanford University](https://stanford.edu). I also received an M.S. in Economics from the [University of Wisconsin-Madison](https://econ.wisc.edu/).
-
-I will join Stanford University as a [Postdoctoral Fellow](https://energypostdoc.stanford.edu/), affiliated with the Doerr School of Sustainability and the Department of Economics, in September, 2026.
 
 If you have any questions or want to connect, feel free to [reach out](mailto:jcollison@wisc.edu) to me.
