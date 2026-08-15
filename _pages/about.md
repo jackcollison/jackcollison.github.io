@@ -23,8 +23,8 @@ Welcome to my personal webpage!
 
 I will join Stanford University as a [Postdoctoral Fellow](https://energypostdoc.stanford.edu/) in September, 2026. 
 
-I received my Ph.D. from the Department of Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests focuses on energy markets using tools from industrial organization, econometrics, and machine learning. I have worked on applications in petroleum markets, electric vehicles, and electricity. I also enjoy adapting and developing ML/AI methods to estimate structural models.
+I received my Ph.D. from the Department of Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests are in industrial organization, energy economics, applied econometrics, and machine learning. I have worked on applications in petroleum markets, electric vehicles, and electricity. I also enjoy adapting and developing ML/AI methods to estimate structural models.
 
 I graduated with an M.S. in Statistics and a B.A. in Economics with [honors](https://economics.stanford.edu/impact-online-food-delivery-services-restaurant-sales) from [Stanford University](https://stanford.edu). I also received an M.S. in Economics from the [University of Wisconsin-Madison](https://econ.wisc.edu/).
 
-If you have any questions or want to connect, feel free to [reach out](mailto:jcollison@wisc.edu) to me.
+If you have any questions or want to connect, feel free to [reach out](mailto:jackcollison@stanford.edu) to me.
