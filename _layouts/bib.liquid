@@ -141,7 +141,9 @@
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{entry.journal}}</em>{% endcapture %}
     {% elsif entry.type == 'unpublished' %}
-      {% capture entrytype %}Revisions Requested at <em>{{entry.revision}}</em>{% endcapture %}
+      {% if entry.revision %}
+        {% capture entrytype %}Revisions Requested at <em>{{entry.revision}}</em>{% endcapture %}
+      {% endif %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>{{entry.booktitle}}</em> {% endcapture %}
     {% elsif thesis contains entry.type %}
