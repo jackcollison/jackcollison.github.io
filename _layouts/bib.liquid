@@ -139,11 +139,11 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-      {% capture entrytype %}<strong><em>{{entry.journal}}</em></strong>{% endcapture %}
+      {% capture entrytype %}<b><em>{{entry.journal}}</em></b>{% endcapture %}
     {% elsif entry.type == 'unpublished' %}
-      {% capture entrytype %}{% if entry.revision %}Revisions Requested at <strong><em>{{entry.revision}}</em></strong>{% endif %}{% if entry.accepted %}Accepted at <strong><em>{{entry.accepted}}</em></strong>{% endif %}{% endcapture %}
+      {% capture entrytype %}{% if entry.revision %}Revisions Requested at <b><em>{{entry.revision}}</em></b>{% endif %}{% if entry.accepted %}Accepted at <strong><em>{{entry.accepted}}</em></strong>{% endif %}{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<strong><em>{{entry.booktitle}}</em></strong> {% endcapture %}
+      {% capture entrytype %}<b><em>{{entry.booktitle}}</em></b> {% endcapture %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{entry.school}}</em> {% endcapture %}
     {% else %}
