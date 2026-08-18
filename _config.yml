@@ -349,7 +349,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # disabled: webp generation fails on CI (no `convert`/webp on the runner), so responsive .webp variants are never produced and the built HTML would link to missing files, breaking the link-check workflows. Re-enable only if the build reliably generates the -480/-800/-1400 .webp variants. See https://github.com/alshedivat/al-folio/issues/537
   widths:
     - 480
     - 800
