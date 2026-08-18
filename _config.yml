@@ -310,9 +310,9 @@ scholar:
 
   sort_by: date
   order: descending
-  type_order: [jmp, article, inbook, book, unpublished, inprogress, misc, report, conference, incollections, inproceedings, proceedings]
+  type_order: [jmp, article, inbook, book, unpublished, inprogress, misc, report, conference, incollections, inproceedings, proceedings, other]
   type_names: {unpublished: Working Papers, report: Reports, article: Articles, 
-        inproceedings: Conferences, inprogress: Work in Progress, jmp: Job Market Paper}
+        inproceedings: Conferences, inprogress: Work in Progress, jmp: Job Market Paper, other: Other Publications}
 
 # Display different badges withs stats for your publications
 enable_publication_badges:

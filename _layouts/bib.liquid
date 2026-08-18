@@ -140,6 +140,8 @@
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
       {% capture entrytype %}<b><em>{{entry.journal}}</em></b>{% endcapture %}
+    {% if entry.type == 'other' %}
+      {% capture entrytype %}<b><em>{{entry.journal}}</em></b>{% endcapture %}
     {% elsif entry.type == 'unpublished' %}
       {% capture entrytype %}{% if entry.revision %}Revisions Requested at <b><em>{{entry.revision}}</em></b>{% endif %}{% if entry.accepted %}Accepted at <strong><em>{{entry.accepted}}</em></strong>{% endif %}{% endcapture %}
     {% elsif proceedings contains entry.type %}
