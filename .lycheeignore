@@ -1,0 +1,6 @@
+# Domains that block automated crawlers (return 403/999) but work fine in a browser.
+# Read automatically by lychee during the broken-link checks.
+https?://(www\.)?stackoverflow\.com
+https?://(www\.)?twitter\.com
+https?://(www\.)?x\.com
+https?://(www\.)?reddit\.com
