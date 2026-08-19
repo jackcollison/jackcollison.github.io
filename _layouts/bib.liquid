@@ -143,7 +143,7 @@
     {% elsif entry.type == 'other' %}
       {% capture entrytype %}<b><em>{{entry.journal}}</em></b>{% endcapture %}
     {% elsif entry.type == 'unpublished' %}
-      {% capture entrytype %}{% if entry.revision %}Revisions Requested at <b><em>{{entry.revision}}</em></b>{% endif %}{% if entry.accepted %}Accepted at <strong><em>{{entry.accepted}}</em></strong>{% endif %}{% endcapture %}
+      {% capture entrytype %}{% if entry.revision %}Revisions Requested at <b><em>{{entry.revision}}</em></b>{% endif %}{% if entry.accepted %}Accepted at <b><em>{{entry.accepted}}</em></b>{% endif %}{% endcapture %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<b><em>{{entry.booktitle}}</em></b> {% endcapture %}
     {% elsif thesis contains entry.type %}
